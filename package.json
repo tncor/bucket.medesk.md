@@ -1,0 +1,17 @@
+{
+  "name": "bucket.medesk.md",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "4.2.x"
+  },
+  "dependencies": {
+    "http-proxy": "^1.14.0"
+  }
+}
